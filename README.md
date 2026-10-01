@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navya-1803/_DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Navya-1803/_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Navya-1803/_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0206-reverse-linked-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Navya-1803/_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
