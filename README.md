@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Navya-1803/_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 ## String
 |  |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
