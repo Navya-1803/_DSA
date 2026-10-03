@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navya-1803/_DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Navya-1803/_DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Navya-1803/_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Navya-1803/_DSA/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
