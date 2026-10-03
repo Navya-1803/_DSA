@@ -50,6 +50,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Navya-1803/_DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
