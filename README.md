@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Navya-1803/_DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Navya-1803/_DSA/tree/master/0071-simplify-path) |
+| [0179-largest-number](https://github.com/Navya-1803/_DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Navya-1803/_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navya-1803/_DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Navya-1803/_DSA/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Navya-1803/_DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Navya-1803/_DSA/tree/master/0179-largest-number) |
 | [0649-dota2-senate](https://github.com/Navya-1803/_DSA/tree/master/0649-dota2-senate) |
 ## Breadth-First Search
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/Navya-1803/_DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
