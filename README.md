@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Navya-1803/_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/Navya-1803/_DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
