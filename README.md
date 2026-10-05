@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navya-1803/_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
