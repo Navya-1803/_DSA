@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Navya-1803/_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Navya-1803/_DSA/tree/master/0143-reorder-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Navya-1803/_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Navya-1803/_DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Navya-1803/_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navya-1803/_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Navya-1803/_DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Navya-1803/_DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
@@ -276,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
