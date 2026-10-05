@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navya-1803/_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/Navya-1803/_DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-1803/_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-1803/_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Range Minimum/Maximum Query
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0622-design-circular-queue](https://github.com/Navya-1803/_DSA/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Navya-1803/_DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Navya-1803/_DSA/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-1803/_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
