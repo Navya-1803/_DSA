@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Navya-1803/_DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya-1803/_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
 ## Two Pointers
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Navya-1803/_DSA/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navya-1803/_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/Navya-1803/_DSA/tree/master/0622-design-circular-queue) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
