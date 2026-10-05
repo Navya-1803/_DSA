@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Navya-1803/_DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Navya-1803/_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
+| [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Navya-1803/_DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
+| [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-1803/_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,15 +299,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Navya-1803/_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Navya-1803/_DSA/tree/master/1122-relative-sort-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
