@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navya-1803/_DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Navya-1803/_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Navya-1803/_DSA/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Navya-1803/_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/Navya-1803/_DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -235,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Navya-1803/_DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Navya-1803/_DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
