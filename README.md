@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Navya-1803/_DSA/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya-1803/_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Navya-1803/_DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya-1803/_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Navya-1803/_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Navya-1803/_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navya-1803/_DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Navya-1803/_DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
