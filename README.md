@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navya-1803/_DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Navya-1803/_DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Navya-1803/_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya-1803/_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Navya-1803/_DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Navya-1803/_DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Navya-1803/_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Navya-1803/_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Navya-1803/_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Navya-1803/_DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Navya-1803/_DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
