@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/Navya-1803/_DSA/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-1803/_DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -211,18 +212,22 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Navya-1803/_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Navya-1803/_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -256,4 +261,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Navya-1803/_DSA/tree/master/0278-first-bad-version) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Navya-1803/_DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
