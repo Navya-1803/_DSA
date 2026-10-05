@@ -237,5 +237,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Navya-1803/_DSA/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Navya-1803/_DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Navya-1803/_DSA/tree/master/0704-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Navya-1803/_DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
