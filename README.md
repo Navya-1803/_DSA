@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
 ## Bidirectional Search
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
