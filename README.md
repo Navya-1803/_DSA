@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Navya-1803/_DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navya-1803/_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
 ## Bidirectional Search
@@ -157,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
