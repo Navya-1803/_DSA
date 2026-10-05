@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
+| [0875-koko-eating-bananas](https://github.com/Navya-1803/_DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Navya-1803/_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Navya-1803/_DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/Navya-1803/_DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Navya-1803/_DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Navya-1803/_DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Navya-1803/_DSA/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
