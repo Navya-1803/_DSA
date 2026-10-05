@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Navya-1803/_DSA/tree/master/0071-simplify-path) |
+| [0649-dota2-senate](https://github.com/Navya-1803/_DSA/tree/master/0649-dota2-senate) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Navya-1803/_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -113,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Navya-1803/_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Navya-1803/_DSA/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Navya-1803/_DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Navya-1803/_DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Navya-1803/_DSA/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Navya-1803/_DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
