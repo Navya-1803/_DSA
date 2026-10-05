@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Navya-1803/_DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Navya-1803/_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Navya-1803/_DSA/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/Navya-1803/_DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Navya-1803/_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Navya-1803/_DSA/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Navya-1803/_DSA/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Navya-1803/_DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
