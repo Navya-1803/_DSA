@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Navya-1803/_DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Navya-1803/_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navya-1803/_DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navya-1803/_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Navya-1803/_DSA/tree/master/0649-dota2-senate) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Navya-1803/_DSA/tree/master/0994-rotting-oranges) |
 ## Bidirectional Search
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Navya-1803/_DSA/tree/master/0164-maximum-gap) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
