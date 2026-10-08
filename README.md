@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Navya-1803/_DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Navya-1803/_DSA/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Navya-1803/_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0752-open-the-lock](https://github.com/Navya-1803/_DSA/tree/master/0752-open-the-lock) |
@@ -211,12 +212,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Navya-1803/_DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Navya-1803/_DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Navya-1803/_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,4 +338,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/Navya-1803/_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Navya-1803/_DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
